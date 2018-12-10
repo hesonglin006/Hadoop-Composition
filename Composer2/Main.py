@@ -17,7 +17,7 @@ SCHEDULER_PORT = 27006
 LISTEN_HOST = '0.0.0.0'
 COMPOSER_PORT = 47006
 globalList = []
-nodeinfo = {'vp0':'35.243.207.225', 'vp1':'35.237.190.106', 'vp2':'35.227.29.14', 'vp3':'35.236.192.229', 'vp4':'35.245.135.135', 'vp5':'35.245.86.225', 'vp6':'35.192.119.136', 'vp7':'35.184.188.118', 'vp8':'35.239.149.95'}
+nodeinfo = {'vp0':'xx.xx.xx.xx', 'vp1':'xx.xx.xx.xx', 'vp2':'xx.xx.xx.xx', 'vp3':'xx.xx.xx.xx', 'vp4':'xx.xx.xx.xx', 'vp5':'xx.xx.xx.xx', 'vp6':'xx.xx.xx.xx', 'vp7':'xx.xx.xx.xx', 'vp8':'xx.xx.xx.xx'}
 
 class Var():
     STOP_FLAG = 0
